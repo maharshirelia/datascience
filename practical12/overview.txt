@@ -1,0 +1,3 @@
+Presently, rooms booking prediction is a quite in demand for Hotel owners and inventory managers.
+They always want to keep the future in mind while setting up and finalize the future strategies of inventories and rates, whether they are offline rack rates or OTA rates.
+Using Logistic Regression model including the Data Cleaning, Preprocessing, and Exploratory Data Analysis, we can execute this model. 
