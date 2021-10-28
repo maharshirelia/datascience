@@ -1,2 +1,2 @@
-Download age_netcaffe.model file from
+Download age_net.caffemodel file from
 https://drive.google.com/file/d/11s3VfaCTGeGB0Jvx5REPHMgMIxgBXkly/view?usp=sharing
